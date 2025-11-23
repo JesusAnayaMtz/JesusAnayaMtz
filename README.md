@@ -26,11 +26,11 @@ Me gusta escribir código limpio, aplicar buenas prácticas, aprender constantem
 
 ### **Frontend**
 - React · TypeScript  
-- HTML · CSS · Bootstrap  
+- HTML · CSS · Bootstrap · Tailwind
 
 ### **Bases de datos**
 - MySQL · PostgreSQL  
-- JPA · Hibernate  
+- JPA · Hibernate · TypeOrm.
 
 ### **DevOps**
 - Docker · Linux  
@@ -40,43 +40,39 @@ Me gusta escribir código limpio, aplicar buenas prácticas, aprender constantem
 ---
 
 ## 🎓 Certificaciones
+- **Full Stack Developer — Henry Bootcamp (2025)** 
 - **Full Stack Developer Java — Santander + Bedu (2023–2024)**  
 - **Oracle Next Education — Alura Latam (Java & Spring Boot)**  
 
 ---
 
 ## 🛠️ Proyectos destacados
+### 🔹 **DevCore Academia Web Full Stack (NestJs + NextJs)**
+Sistema de cursos en linea. con roles, ventas, reportes, gestion de usuario, pasarela de pagos.
+
+### 🔹 **Web Full Stack (Node.js + React)**
+API REST con Express conectada a un panel web con React + TypeScript.
 
 ### 🔹 **POS Desktop (Java + Swing + JPA)**
 Sistema de punto de venta con login, roles, ventas, reportes y gestión de usuarios.
-
-### 🔹 **Backend Spring Boot – Sistema empresarial**
-Módulos de productos, clientes, cotizaciones, categorías y autenticación JWT.  
-Incluye validaciones, DTOs, mappers, servicios y buenas prácticas.
-
-### 🔹 **Web Full Stack (Node.js + React)**
-API REST con Express/NestJS conectada a un panel web con React + TypeScript.
 
 ---
 
 ## 🌱 Actualmente aprendiendo
 - Arquitectura limpia  
 - Microservicios  
-- Testing (Jest / JUnit)  
-- Despliegue profesional en AWS  
 
 ---
 
 ## 🤝 Estoy buscando
-Oportunidades como **Backend Developer Junior** (Node.js / Java)  
-De preferencia remoto.
+Oportunidades como **Backend Developer Junior** (Node.js, NestJs. / Java) o **Full Stack Developer Junior** (Node.js,Express, NestJs, React.)
+De preferencia remoto pero no me cierro a propuestas.
 
 ---
 
 ## 📫 Contáctame
-- **LinkedIn:** [tu enlace aquí]  
-- **Email:** tu correo aquí  
-- **GitHub:** @tuusuario  
+- **LinkedIn:** www.linkedin.com/in/jesusanaya  
+- **Email:** j.mtz201289@gmail.com   
 
 ---
 
