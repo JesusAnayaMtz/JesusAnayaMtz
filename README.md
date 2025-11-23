@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Full Stack / Backend Developer</b><br>
-  Java · Spring Boot · Node.js · NestJS · React
+  Node.js · NestJS · React · Java · Spring Boot
 </p>
 
 <div align="center">
