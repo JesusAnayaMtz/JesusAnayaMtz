@@ -82,8 +82,9 @@ Preferencia por **modalidad remota**, pero abierto a otras opciones.
 ---
 
 ## 📫 Contáctame
+- 📍 Ubicacion: **Veracruz, Mexico**
 - 🔗 LinkedIn: **https://www.linkedin.com/in/jesusanaya**  
-- 📧 Email: **j.mtz201289@gmail.com**
+- 📧 Email: **j.mtz201289@gmail.com**  
 
 ---
 
