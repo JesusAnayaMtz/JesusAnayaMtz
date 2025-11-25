@@ -25,6 +25,20 @@ Construyo aplicaciones web escalables con **Java / Spring Boot** y **Node.js / N
 
 ---
 
+## 🤝 Busco oportunidades
+**Backend Developer Junior (Node.js / Java)**  
+**Full Stack Developer Junior (Node.js + React)**  
+Preferencia por **modalidad remota**, pero abierto a otras opciones.
+
+---
+
+## 📫 Contáctame
+- 📍 Ubicacion: **Veracruz, Mexico**
+- 🔗 LinkedIn: **https://www.linkedin.com/in/jesusanaya**  
+- 📧 Email: **j.mtz201289@gmail.com**  
+
+---
+
 ## 🧠 Tech Stack
 
 ### 🔧 Backend
@@ -71,20 +85,6 @@ Sistema de punto de venta con login, roles, ventas y reportes para una empresa c
 ## 🌱 Actualmente aprendiendo
 - Arquitectura limpia  
 - Microservicios  
-
----
-
-## 🤝 Busco oportunidades
-**Backend Developer Junior (Node.js / Java)**  
-**Full Stack Developer Junior (Node.js + React)**  
-Preferencia por **modalidad remota**, pero abierto a otras opciones.
-
----
-
-## 📫 Contáctame
-- 📍 Ubicacion: **Veracruz, Mexico**
-- 🔗 LinkedIn: **https://www.linkedin.com/in/jesusanaya**  
-- 📧 Email: **j.mtz201289@gmail.com**  
 
 ---
 
